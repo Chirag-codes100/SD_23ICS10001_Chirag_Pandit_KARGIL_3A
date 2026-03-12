@@ -1,0 +1,14 @@
+Online learning platform
+Q1.
+Design an Online Learning Platform (similar to Coursera/Udemy) with the following services:
+
+
+User Login Service
+Course Enrollment Service
+Course Search Service
+Video Lecture Streaming Service
+
+
+Optimize the platform using a CDC (Change Data Capture) Pipeline for tracking course progress and analytics.
+Highlight where the Proxy Design Pattern can be used.
+Use HLS or DASH streaming for adaptive video playback along with the manifest file.
